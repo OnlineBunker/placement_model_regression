@@ -14,12 +14,12 @@ This project aims to predict the placement status of students using various mach
 
 ---
 ## 🌄 Images
-* ScatterPlot of IQ and CGPA
-![ScatterPlot of IQ and CGPA](images/image1.png)
 
-* Model Prediction
+### 📌 Scatter Plot of IQ and CGPA
+![Scatter Plot of IQ and CGPA](images/image1.png)
+
+### 🧠 Model Prediction Visualization
 ![Model Prediction](images/image2.png)
-
 ---
 
 ## 📊 Exploratory Data Analysis (EDA)
